@@ -1,0 +1,22 @@
+/*main website*/
+
+.logo{color:#ff0000;}
+input{color:#000;width:30%;}
+.portfoliotitle{color:#ff0000;}
+
+/*app*/
+
+.title{font-size:2em;color:#FFF;}
+.smalltitle{font-size:1em;}
+.albumlist{float:right;}
+.artistinfo{float:left;}
+.artistalbum{color:#ff0000;}
+.hideme{color:#000;}
+
+#success{display:none;}
+#success2{display:none;}
+#success3{display:none;}
+
+#currentAlbumImage{color:#ff0000;}
+#currentAlbumTrackName{text-align:left;font-size:2em;margin-right:0px;}
+.trackLabel{font-size:1em !important;}
