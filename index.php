@@ -102,19 +102,19 @@
                     <a href="http://www.allcampussecurity.com/" target="_blank">
                     <span class="portfoliotitle">All Campus Security</span><br/>
                     <img src="portfolio/acs-homepage.jpg" title="E-commerce" class="img-responsive"><br/>
-                    Magento powered e-commerce website development</a>
+                    Magento powered e-commerce website development</a><br/><br/>
                </div>
                <div class="col-md-4">
                     <a href="http://www.video-insight.com/cameras/ptz-dome/" target="_blank">
                     <span class="portfoliotitle">Video Insight</span><br/>
                     <img src="portfolio/camera-browsing.jpg" title="Product Launch" class="img-responsive"><br/>
-                    Panasonic product catalog & MySQL Tools</a>
+                    Panasonic product catalog & MySQL Tools</a><br/><br/>
                </div>
                <div class="col-md-4">
                     <a href="http://www.excessivedetailing.com/" target="_blank">
                     <span class="portfoliotitle">Excessive Detailing</span><br/>
                     <img src="portfolio/excessive-detailing.jpg" title="Design" class="img-responsive"><br/>
-                    Car enthusiast landing page, branding  and hosting</a>
+                    Car enthusiast landing page, branding  and hosting</a><br/><br/>
                </div>
             </div>
         </div>
